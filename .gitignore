@@ -39,4 +39,5 @@ bin/
 
 # Ignore src\Test directory
 src/test
+*.class
 
